@@ -283,21 +283,23 @@ class AnkitKumar:
 <div align="center">
 
 <!-- LeetCode Live Stats Card (with heatmap) -->
-<a href="https://leetcode.com/u/user8765S/">
-  <img src="https://leetcard.jacoblin.cool/user8765S?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=12" alt="LeetCode Stats"/>
+
+<a href="https://leetcode.com/u/ANKIT_jha_2020/">
+  <img src="https://leetcard.jacoblin.cool/ANKIT_jha_2020?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=12" alt="LeetCode Stats"/>
 </a>
 
 <br/><br/>
 
 <!-- LeetCode Activity Card -->
-<a href="https://leetcode.com/u/user8765S/">
-  <img src="https://leetcard.jacoblin.cool/user8765S?theme=dark&font=Fira%20Code&ext=activity&border=0&radius=12" alt="LeetCode Activity"/>
+
+<a href="https://leetcode.com/u/ANKIT_jha_2020/">
+  <img src="https://leetcard.jacoblin.cool/ANKIT_jha_2020?theme=dark&font=Fira%20Code&ext=activity&border=0&radius=12" alt="LeetCode Activity"/>
 </a>
 
 <br/><br/>
 
-<a href="https://leetcode.com/u/user8765S/">
-  <img src="https://img.shields.io/badge/Visit_LeetCode_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="leetcode profile"/>
+<a href="https://leetcode.com/u/ANKIT_jha_2020/">
+  <img src="https://img.shields.io/badge/Visit_LeetCode_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile"/>
 </a>
 
 </div>
