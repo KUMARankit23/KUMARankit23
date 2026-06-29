@@ -72,8 +72,7 @@ class AnkitKumar:
 
 <a href="https://www.linkedin.com/in/ankit-kumar-3837a92a6/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://leetcode.com/u/user8765S/" target="_blank">
+<a href="https://leetcode.com/u/ANKIT_jha_2020/" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
 </a>
 <a href="https://github.com/KUMARankit23" target="_blank">
